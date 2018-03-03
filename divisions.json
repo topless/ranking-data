@@ -1,0 +1,14 @@
+[
+  {"name": "strawweight", "weight": 115, "is_male": false},
+  {"name": "flyweight", "weight": 125, "is_male": false},
+  {"name": "bantamweight", "weight": 135, "is_male": false},
+  {"name": "flyweight", "weight": 125},
+  {"name": "bantamweight", "weight": 135},
+  {"name": "featherweight", "weight": 145},
+  {"name": "lightweight", "weight": 155},
+  {"name": "welterweight", "weight": 170},
+  {"name": "middleweight", "weight": 185},
+  {"name": "light_heavyweight", "weight": 205},
+  {"name": "heavyweight", "weight": 265},
+  {"name": "pound_for_pound"}
+]
